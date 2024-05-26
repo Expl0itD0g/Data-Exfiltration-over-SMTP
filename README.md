@@ -1,2 +1,2 @@
-# Data-Exfiltration-over-SMTP
-A data exfiltration tool over smtp protocol.
+# A simple trojan info stealer in python language for academic project
+
